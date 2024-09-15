@@ -1,2 +1,1 @@
 # stdforml.github.io
-Learning
